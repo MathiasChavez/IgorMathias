@@ -21,7 +21,7 @@ public class App {
     private static final String SAMPLE_CSV_FILE_PATH = "veiculos.dat";
 
     public static void main(String[] args) throws IOException {
-        System.out.println("Teste igor");
+        System.out.println("Teste igor  ");
         try (Reader reader = Files.newBufferedReader(Paths.get(SAMPLE_CSV_FILE_PATH));
                 CSVParser csvParser = new CSVParser(reader, CSVFormat.DEFAULT);) {
             for (CSVRecord csvRecord : csvParser) {

@@ -1,0 +1,8 @@
+Igor Dourado e Mathias
+https://github.com/MathiasChavez/IgorMathias
+
+Como vantagens, percebemos que houve menos complicações no tratamento das APIs, criação automática
+das dependências dos nossos projetos, sem necessidade de atrás de eventuais bibliotecas,
+criação dos diretórios.
+Como desvantagens vimos que, inicialmente, há uma certa burocracia para criação do projetos e uma certa
+estranheza por se tratar de uma ferramenta nova
